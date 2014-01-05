@@ -1,9 +1,10 @@
 @import "normalize";
 
 body {
-	background: $color;
-	color: white;
+	background: $color-beta;
+	color: $color-alpha;
 }
 p {
-	@include inline-block;
+	display: block;
+	text-align: center;
 }
