@@ -1,6 +1,4 @@
-$color: yellow;
+@import "compass";
 
-body {
-	background: $color;
-	color: white;
-}
+@import "vars";
+@import "base/base";

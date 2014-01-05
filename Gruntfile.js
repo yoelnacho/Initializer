@@ -39,7 +39,6 @@ module.exports = function(grunt){
 	      	},
 	      	css: {
 	        	files: ['<%= webapp.sassDir %>/style.css'],
-	        	task:[]
 	      	}
 	    },
 

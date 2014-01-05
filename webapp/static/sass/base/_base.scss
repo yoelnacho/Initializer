@@ -1,0 +1,9 @@
+@import "normalize";
+
+body {
+	background: $color;
+	color: white;
+}
+p {
+	@include inline-block;
+}
