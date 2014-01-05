@@ -2,9 +2,9 @@
 ## MIOS
 #################
 node_modules/
-Gemfile.lock
 .sass-cache/
 .bundle/
+*.lock
 
 #################
 ## Eclipse
