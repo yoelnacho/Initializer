@@ -10,7 +10,7 @@ module.exports = function(grunt){
 	    cssDir: 'webapp/static/css',
 	    sassDir: 'webapp/static/sass',
 	    devUrl: 'miapp.vm',
-	    port: 5000
+	    port: 9000
 	  };
 
 	grunt.initConfig({
@@ -21,7 +21,6 @@ module.exports = function(grunt){
 				options: {
 					port: '<%= webapp.port %>',
 					base: '<%= webapp.path %>'
-					//livereload: true
 					//keepalive: true //si utilizo livereload no hace falta que esté keepalive
 				}
 			}

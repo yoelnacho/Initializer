@@ -2,7 +2,7 @@
 ## MIOS
 #################
 node_modules/
-.lock
+Gemfile.lock
 .sass-cache/
 .bundle/
 
