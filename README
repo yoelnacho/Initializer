@@ -1,1 +1,8 @@
 Project Initializer
+===================
+
+1- Descargar
+2- Instalar node
+3- npm install (package.json)
+4- bundle install
+5- (run) grunt
